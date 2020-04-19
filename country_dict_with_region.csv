@@ -1,0 +1,203 @@
+code,country,region
+AFG,Afghanistan,South Asia
+ALB,Albania,Europe
+DZA,Algeria,MENA
+AND,Andorra,Europe
+AGO,Angola,Africa
+ATG,Antigua_and_Barbuda,South America
+ARG,Argentina,South America
+ARM,Armenia,MENA
+ABW,Aruba,South America
+AUS,Australia,Australia
+AUT,Austria,Europe
+AZE,Azerbaijan,MENA
+BHS,Bahamas,South America
+BHR,Bahrain,MENA
+BGD,Bangladesh,South Asia
+BRB,Barbados,South America
+BLR,Belarus,Europe
+BEL,Belgium,Europe
+BLZ,Belize,South America
+BEN,Benin,Africa
+BMU,Bermuda,North America
+BTN,Bhutan,South Asia
+BOL,Bolivia,South America
+BIH,Bosnia_and_Herzegovina,Europe
+BWA,Botswana,Africa
+BRA,Brazil,South America
+VGB,British_Virgin_Islands,North America
+BRN,Brunei_Darussalam,Southeast Asia
+BGR,Bulgaria,Europe
+BFA,Burkina_Faso,Africa
+BDI,Burundi,Africa
+KHM,Cambodia,Southeast Asia
+CMR,Cameroon,Africa
+CAN,Canada,North America
+CPV,Cape_Verde,Africa
+CYM,Cayman_Islands,South America
+CAF,Central_African_Republic,Africa
+TCD,Chad,Africa
+CHL,Chile,South America
+CHN,China,East Asia
+COL,Colombia,South America
+COG,Congo,Africa
+CRI,Costa_Rica,South America
+CIV,Cote_dIvoire,Africa
+HRV,Croatia,Europe
+CUB,Cuba,South America
+CUW,Curaçao,South America
+CYP,Cyprus,Europe
+CZE,Czechia,Europe
+COD,Democratic_Republic_of_the_Congo,Africa
+DNK,Denmark,Europe
+DJI,Djibouti,Africa
+DMA,Dominica,South America
+DOM,Dominican_Republic,South America
+ECU,Ecuador,South America
+EGY,Egypt,MENA
+SLV,El_Salvador,South America
+GNQ,Equatorial_Guinea,Africa
+ERI,Eritrea,Africa
+EST,Estonia,Europe
+SWZ,Eswatini,Africa
+ETH,Ethiopia,Africa
+FRO,Faroe_Islands,Europe
+FJI,Fiji,Southeast Asia
+FIN,Finland,Europe
+FRA,France,Europe
+PYF,French_Polynesia,Southeast Asia
+GAB,Gabon,Africa
+GMB,Gambia,Africa
+GEO,Georgia,MENA
+DEU,Germany,Europe
+GHA,Ghana,Africa
+GIB,Gibraltar,Europe
+GRC,Greece,Europe
+GRL,Greenland,Europe
+GRD,Grenada,South America
+GUM,Guam,Southeast Asia
+GTM,Guatemala,South America
+GGY,Guernsey,Europe
+GIN,Guinea,Africa
+GNB,Guinea_Bissau,Africa
+GUY,Guyana,South America
+HTI,Haiti,South America
+VAT,Holy_See,Europe
+HND,Honduras,South America
+HUN,Hungary,Europe
+ISL,Iceland,Europe
+IND,India,South Asia
+IDN,Indonesia,Southeast Asia
+IRN,Iran,MENA
+IRQ,Iraq,MENA
+IRL,Ireland,Europe
+IMN,Isle_of_Man,Europe
+ISR,Israel,MENA
+ITA,Italy,Europe
+JAM,Jamaica,South America
+JPN,Japan,East Asia
+JEY,Jersey,Europe
+JOR,Jordan,MENA
+KAZ,Kazakhstan,Central Asia
+KEN,Kenya,Africa
+XKX,Kosovo,Europe
+KWT,Kuwait,MENA
+KGZ,Kyrgyzstan,Central Asia
+LAO,Laos,Southeast Asia
+LVA,Latvia,Europe
+LBN,Lebanon,MENA
+LBR,Liberia,Africa
+LBY,Libya,Africa
+LIE,Liechtenstein,Europe
+LTU,Lithuania,Europe
+LUX,Luxembourg,Europe
+MDG,Madagascar,Africa
+MWI,Malawi,Africa
+MYS,Malaysia,Southeast Asia
+MDV,Maldives,South Asia
+MLI,Mali,Africa
+MLT,Malta,Europe
+MRT,Mauritania,Africa
+MUS,Mauritius,Africa
+MEX,Mexico,South America
+MDA,Moldova,Europe
+MCO,Monaco,Europe
+MNG,Mongolia,East Asia
+MNE,Montenegro,Europe
+MSR,Montserrat,South America
+MAR,Morocco,MENA
+MOZ,Mozambique,Africa
+MMR,Myanmar,South Asia
+NAM,Namibia,Africa
+NPL,Nepal,South Asia
+NLD,Netherlands,Europe
+NCL,New_Caledonia,Southeast Asia
+NZL,New_Zealand,Australia
+NIC,Nicaragua,South America
+NER,Niger,Africa
+NGA,Nigeria,Africa
+MKD,North_Macedonia,Europe
+MNP,Northern_Mariana_Islands,Southeast Asia
+NOR,Norway,Europe
+OMN,Oman,MENA
+PAK,Pakistan,South Asia
+PSE,Palestine,MENA
+PAN,Panama,South America
+PNG,Papua_New_Guinea,Southeast Asia
+PRY,Paraguay,South America
+PER,Peru,South America
+PHL,Philippines,Southeast Asia
+POL,Poland,Europe
+PRT,Portugal,Europe
+PRI,Puerto_Rico,South America
+QAT,Qatar,MENA
+ROU,Romania,Europe
+RUS,Russia,Europe
+RWA,Rwanda,Africa
+KNA,Saint_Kitts_and_Nevis,South America
+LCA,Saint_Lucia,South America
+VCT,Saint_Vincent_and_the_Grenadines,South America
+SMR,San_Marino,Europe
+STP,Sao_Tome_and_Principe,Africa
+SAU,Saudi_Arabia,MENA
+SEN,Senegal,Africa
+SRB,Serbia,Europe
+SYC,Seychelles,Africa
+SLE,Sierra_Leone,Africa
+SGP,Singapore,Southeast Asia
+SXM,Sint_Maarten,South America
+SVK,Slovakia,Europe
+SVN,Slovenia,Europe
+SOM,Somalia,Africa
+ZAF,South_Africa,Africa
+KOR,South_Korea,East Asia
+SSD,South_Sudan,Africa
+ESP,Spain,Europe
+LKA,Sri_Lanka,South Asia
+SDN,Sudan,Africa
+SUR,Suriname,South America
+SWE,Sweden,Europe
+CHE,Switzerland,Europe
+SYR,Syria,MENA
+TWN,Taiwan,East Asia
+THA,Thailand,Southeast Asia
+TLS,Timor_Leste,Southeast Asia
+TGO,Togo,Africa
+TTO,Trinidad_and_Tobago,South America
+TUN,Tunisia,MENA
+TUR,Turkey,MENA
+TCA,Turks_and_Caicos_islands,South America
+UGA,Uganda,Africa
+UKR,Ukraine,Europe
+ARE,United_Arab_Emirates,MENA
+GBR,United_Kingdom,Europe
+TZA,United_Republic_of_Tanzania,Africa
+USA,United_States_of_America,North America
+VIR,United_States_Virgin_Islands,North America
+URY,Uruguay,South America
+UZB,Uzbekistan,Central Asia
+VEN,Venezuela,South America
+VNM,Vietnam,Southeast Asia
+YEM,Yemen,MENA
+ZMB,Zambia,Africa
+ZWE,Zimbabwe,Africa
